@@ -1,6 +1,6 @@
-# 🌐 Custom Curated CloudStream Extension Repository
+# 🌐 CloudStream Repo | Movies & Series
 
-An automated, multi-source **CloudStream extension repository** featuring Phisher's **WatchParty** and **Ultima**, combined with top streaming providers from **Adam Knight MegaRepo**, **SaurabhKaperwan CSX**, and the **Official CloudStream Repositories**.
+An automated, multi-source **CloudStream extension repository** focused on movies and series, featuring Phisher's **WatchParty** and **Ultima**, combined with top streaming providers from **Adam Knight MegaRepo**, **SaurabhKaperwan CSX**, and **Official CloudStream Repositories**.
 
 ---
 
@@ -11,15 +11,15 @@ An automated, multi-source **CloudStream extension repository** featuring Phishe
 2. Navigate to: **Settings ⚙️ ➔ Extensions ➔ Add Repository**.
 3. Paste your repository manifest link:
    ```text
-   https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/refs/heads/builds/repo.json
+   https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/cloudstream-repo/refs/heads/builds/repo.json
    ```
 4. Click **Download / Add**.
-5. Browse your newly added repository and install only the plugins you want!
+5. Browse the repository and install only the extensions you want!
 
 ### Option 2: 1-Click Android Launch
 If browsing on an Android device:
 ```text
-cloudstreamrepo://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/refs/heads/builds/repo.json
+cloudstreamrepo://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/cloudstream-repo/refs/heads/builds/repo.json
 ```
 
 ---
