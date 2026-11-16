@@ -1,0 +1,9 @@
+{
+  "name": "Custom CloudStream Repo",
+  "description": "Curated CloudStream extensions featuring WatchParty, Ultima, and top providers from Phisher and community developers.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/PurveshShinde/Cloudstream-Repo/refs/heads/builds/plugins.json"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/RepoIcon.png"
+}
