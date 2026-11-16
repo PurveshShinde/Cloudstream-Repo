@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "id": "phisher",
+      "name": "Phisher98 Extensions",
+      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json",
+      "type": "plugins_array",
+      "priority": 100,
+      "enabled": true
+    },
+    {
+      "id": "megarepo",
+      "name": "Adam Knight MegaRepo",
+      "url": "https://raw.githubusercontent.com/admknight/CloudstreamExtensions/refs/heads/builds/plugins.json",
+      "type": "plugins_array",
+      "priority": 90,
+      "enabled": true
+    },
+    {
+      "id": "csx",
+      "name": "SaurabhKaperwan CSX",
+      "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json",
+      "type": "repo_manifest",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "official",
+      "name": "Official CloudStream Providers",
+      "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json",
+      "type": "plugins_array",
+      "priority": 80,
+      "enabled": true
+    },
+    {
+      "id": "dogior",
+      "name": "doGior's Had Enough",
+      "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/builds/repo.json",
+      "type": "repo_manifest",
+      "priority": 75,
+      "enabled": true
+    }
+  ],
+  "preferredPlugins": {
+    "WatchParty": "phisher",
+    "Ultima": "phisher"
+  },
+  "filter": {
+    "excludeNsfw": false,
+    "excludeDown": true,
+    "whitelist": [],
+    "blacklist": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "custom-cloudstream-repository",
+  "version": "1.0.0",
+  "description": "Curated, multi-source CloudStream extension repository with WatchParty, Ultima, and top streaming providers",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/aggregate.js && node scripts/generate-site.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
