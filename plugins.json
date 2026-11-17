@@ -9624,7 +9624,7 @@
     "authors": [
       "doGior"
     ],
-    "version": 29,
+    "version": 30,
     "apiVersion": 1,
     "status": 1,
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AnimeUnity.cs3",
@@ -9634,9 +9634,9 @@
       "Anime",
       "OVA"
     ],
-    "iconUrl": "https://www.animeunity.to/apple-touch-icon.png",
-    "fileHash": "sha256-c23ec91d08adfdda43bb5307ef4bc6d73ba7459bbbfe1e98e53908a46eea860c",
-    "fileSize": 134706,
+    "iconUrl": "https://animeunity.cx/icon/apple-touch-icon.png",
+    "fileHash": "sha256-30ec1c65396a8629258a3761adee7a2f9397ff11bf2add5a84e322c5271a3704",
+    "fileSize": 151019,
     "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough"
   },
   {
@@ -9820,7 +9820,7 @@
     "authors": [
       "Phisher98"
     ],
-    "version": 23,
+    "version": 24,
     "apiVersion": 1,
     "status": 1,
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
@@ -9831,8 +9831,8 @@
       "Anime"
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
-    "fileHash": "sha256-cd75f64149bdb642a404c9d45ef1f832eb4914afe3430bd1ae41d8fcf53d8263",
-    "fileSize": 260012,
+    "fileHash": "sha256-d30e14cfbc1205fe2dbba78b730679715347cba29aac841e9c2e1ff87e554241",
+    "fileSize": 246588,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
   },
   {
@@ -10777,8 +10777,8 @@
       "Others"
     ],
     "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/StreamCenter/icon.png",
-    "fileHash": "sha256-07e996079d23bc10b64b19d59dcda8af050d0aa372fe685283e009bf5edecd9e",
-    "fileSize": 5905970,
+    "fileHash": "sha256-76081259eddf1dae9a59149374c94484f55dac1175a2d225325163e54808f592",
+    "fileSize": 5905939,
     "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough"
   },
   {
@@ -10789,7 +10789,7 @@
       "Phisher98",
       "Hexated"
     ],
-    "version": 711,
+    "version": 713,
     "apiVersion": 1,
     "status": 1,
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -10803,8 +10803,8 @@
       "AnimeMovie"
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-    "fileHash": "sha256-d4b1becaf0dfc304d6228e3414c93b814aa804785482b14dfe77fae1f01442d8",
-    "fileSize": 2184369,
+    "fileHash": "sha256-9a9e5f073d5e2b179cbeebf508509d615c89eef315609db78667a46e94f28808",
+    "fileSize": 2191950,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
   },
   {

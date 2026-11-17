@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T07:06:07.255Z",
+  "updatedAt": "2026-11-17T20:37:12.409Z",
   "name": "CloudStream Repo",
   "totalPlugins": 531,
   "sources": [
@@ -8739,7 +8739,7 @@
       "name": "AnimeUnity",
       "internalName": "AnimeUnity",
       "description": "Anime from AnimeUnity",
-      "version": 29,
+      "version": 30,
       "authors": [
         "doGior"
       ],
@@ -8750,7 +8750,7 @@
       ],
       "language": "it",
       "status": 1,
-      "iconUrl": "https://www.animeunity.to/apple-touch-icon.png",
+      "iconUrl": "https://animeunity.cx/icon/apple-touch-icon.png",
       "sourceId": "dogior",
       "sourceName": "doGior's Had Enough",
       "adult": false
@@ -8917,7 +8917,7 @@
       "name": "Cinefreak",
       "internalName": "Cinefreak",
       "description": "Bangla/Hindi Movies/Series",
-      "version": 23,
+      "version": 24,
       "authors": [
         "Phisher98"
       ],
@@ -9795,7 +9795,7 @@
       "name": "StreamPlay",
       "internalName": "StreamPlay",
       "description": "#1 best extension based on MultiAPI",
-      "version": 711,
+      "version": 713,
       "authors": [
         "Phisher98",
         "Hexated"
