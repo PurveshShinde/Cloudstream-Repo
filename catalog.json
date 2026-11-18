@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T06:31:07.663Z",
+  "updatedAt": "2026-11-18T20:09:32.621Z",
   "name": "CloudStream Repo",
   "totalPlugins": 531,
   "sources": [
@@ -4374,26 +4374,6 @@
       "adult": true
     },
     {
-      "name": "[Indian] MPlayerProvider",
-      "internalName": "MPlayerProvider",
-      "description": "Indian Movies/Series/Kdrama(Hindi Dubbed)",
-      "version": 9,
-      "authors": [
-        "Adam Knight (Maintainer)"
-      ],
-      "tvTypes": [
-        "AsianDrama",
-        "TvSeries",
-        "Movie"
-      ],
-      "language": "hi",
-      "status": 1,
-      "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
-      "sourceId": "megarepo",
-      "sourceName": "Adam Knight MegaRepo",
-      "adult": false
-    },
-    {
       "name": "[Indian] NetflixMirror",
       "internalName": "NetflixMirror",
       "description": "Netflix, PrimeVideo Content in Multiple Languages",
@@ -7688,6 +7668,24 @@
       "adult": false
     },
     {
+      "name": "[Other] AllWish",
+      "internalName": "AllWish",
+      "description": "Anime from all-wish.me",
+      "version": 18,
+      "authors": [
+        "Adam Knight (Maintainer)"
+      ],
+      "tvTypes": [
+        "All"
+      ],
+      "language": "en",
+      "status": 1,
+      "iconUrl": "https://all-wish.me/assets/logo.png",
+      "sourceId": "megarepo",
+      "sourceName": "Adam Knight MegaRepo",
+      "adult": false
+    },
+    {
       "name": "[Other] AniyomiProvider",
       "internalName": "AniyomiProvider",
       "description": "Use Aniyomi Extensions in CloudStream!\nNot guaranteed to work perfectly.",
@@ -8496,24 +8494,6 @@
       "language": "hi",
       "status": 1,
       "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
-      "sourceId": "phisher",
-      "sourceName": "Phisher98 Extensions",
-      "adult": false
-    },
-    {
-      "name": "AllWish",
-      "internalName": "AllWish",
-      "description": "Anime from all-wish.me",
-      "version": 18,
-      "authors": [
-        "Phisher98"
-      ],
-      "tvTypes": [
-        "All"
-      ],
-      "language": "en",
-      "status": 1,
-      "iconUrl": "https://all-wish.me/assets/logo.png",
       "sourceId": "phisher",
       "sourceName": "Phisher98 Extensions",
       "adult": false
@@ -9474,6 +9454,26 @@
       "language": "hi",
       "status": 1,
       "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
+      "sourceId": "phisher",
+      "sourceName": "Phisher98 Extensions",
+      "adult": false
+    },
+    {
+      "name": "MPlayerProvider",
+      "internalName": "MPlayerProvider",
+      "description": "Indian Movies/Series/Kdrama(Hindi Dubbed)",
+      "version": 9,
+      "authors": [
+        "Phisher98"
+      ],
+      "tvTypes": [
+        "AsianDrama",
+        "TvSeries",
+        "Movie"
+      ],
+      "language": "hi",
+      "status": 1,
+      "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
       "sourceId": "phisher",
       "sourceName": "Phisher98 Extensions",
       "adult": false
