@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T20:09:32.621Z",
+  "updatedAt": "2026-11-19T06:32:15.681Z",
   "name": "CloudStream Repo",
   "totalPlugins": 531,
   "sources": [
@@ -8679,7 +8679,7 @@
       "name": "AnimePahe",
       "internalName": "AnimePahe",
       "description": "Animes (SUB/DUB)",
-      "version": 55,
+      "version": 56,
       "authors": [
         "Cloudburst,Lorem Ipsum,Phisher98"
       ],
@@ -8739,7 +8739,7 @@
       "name": "Animexin",
       "internalName": "Animexin",
       "description": "Anime and Movies",
-      "version": 23,
+      "version": 24,
       "authors": [
         "Phisher98"
       ],
@@ -8917,7 +8917,7 @@
       "name": "Cinemacity",
       "internalName": "Cinemacity",
       "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-      "version": 30,
+      "version": 31,
       "authors": [
         "Phisher98"
       ],
@@ -8955,7 +8955,7 @@
       "name": "Comix",
       "internalName": "Comix",
       "description": "Comix — Read Manga, Manhwa, and Comics directly in CloudStream with custom reader.",
-      "version": 6,
+      "version": 7,
       "authors": [
         "phisher98"
       ],
@@ -9011,7 +9011,7 @@
       "name": "DoraBash",
       "internalName": "DoraBash",
       "description": "Doremon Show in Hindi",
-      "version": 19,
+      "version": 20,
       "authors": [
         "Phisher98"
       ],
@@ -9306,7 +9306,7 @@
       "name": "Kartoons",
       "internalName": "Kartoons",
       "description": "Kartoons (Cartoon & Animes)",
-      "version": 13,
+      "version": 14,
       "authors": [
         "Phisher98"
       ],
@@ -10074,7 +10074,7 @@
       "name": "XDMovies",
       "internalName": "XDMovies",
       "description": "Watch Latest Movies",
-      "version": 29,
+      "version": 30,
       "authors": [
         "Phisher98"
       ],
@@ -10134,7 +10134,7 @@
       "name": "Zinkmovies",
       "internalName": "Zinkmovies",
       "description": "",
-      "version": 13,
+      "version": 14,
       "authors": [
         "Phisher98"
       ],
