@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-19T06:32:15.681Z",
+  "updatedAt": "2026-11-19T20:10:50.612Z",
   "name": "CloudStream Repo",
-  "totalPlugins": 531,
+  "totalPlugins": 532,
   "sources": [
     {
       "id": "phisher",
       "name": "Phisher98 Extensions",
       "status": "ok",
-      "count": 87
+      "count": 88
     },
     {
       "id": "megarepo",
@@ -8679,7 +8679,7 @@
       "name": "AnimePahe",
       "internalName": "AnimePahe",
       "description": "Animes (SUB/DUB)",
-      "version": 56,
+      "version": 58,
       "authors": [
         "Cloudburst,Lorem Ipsum,Phisher98"
       ],
@@ -8739,7 +8739,7 @@
       "name": "Animexin",
       "internalName": "Animexin",
       "description": "Anime and Movies",
-      "version": 24,
+      "version": 25,
       "authors": [
         "Phisher98"
       ],
@@ -8799,7 +8799,7 @@
       "name": "AniVortex",
       "internalName": "AniVortex",
       "description": "AniVortex — Anime, movies & TV series streaming",
-      "version": 15,
+      "version": 16,
       "authors": [
         "Phisher98"
       ],
@@ -8821,7 +8821,7 @@
       "name": "Aniworld",
       "internalName": "Aniworld",
       "description": "Include: Serienstream (Login Required under Extension Settings)",
-      "version": 22,
+      "version": 23,
       "authors": [
         "Phisher98,Hexated"
       ],
@@ -8841,7 +8841,7 @@
       "name": "Anizone",
       "internalName": "Anizone",
       "description": "Anizone.to streams latest anime content in multiple language.",
-      "version": 15,
+      "version": 16,
       "authors": [
         "ycngmn"
       ],
@@ -8897,7 +8897,7 @@
       "name": "Cinefreak",
       "internalName": "Cinefreak",
       "description": "Bangla/Hindi Movies/Series",
-      "version": 24,
+      "version": 25,
       "authors": [
         "Phisher98"
       ],
@@ -8917,7 +8917,7 @@
       "name": "Cinemacity",
       "internalName": "Cinemacity",
       "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-      "version": 31,
+      "version": 32,
       "authors": [
         "Phisher98"
       ],
@@ -8955,7 +8955,7 @@
       "name": "Comix",
       "internalName": "Comix",
       "description": "Comix — Read Manga, Manhwa, and Comics directly in CloudStream with custom reader.",
-      "version": 7,
+      "version": 8,
       "authors": [
         "phisher98"
       ],
@@ -9011,7 +9011,7 @@
       "name": "DoraBash",
       "internalName": "DoraBash",
       "description": "Doremon Show in Hindi",
-      "version": 20,
+      "version": 21,
       "authors": [
         "Phisher98"
       ],
@@ -9143,6 +9143,26 @@
       "adult": false
     },
     {
+      "name": "Gotaku",
+      "internalName": "Gotaku",
+      "description": "Gotaku (gotaku.to) - anime with soft sub, hard sub and dub. Ported from the Aniyomi extension.",
+      "version": 2,
+      "authors": [
+        "manavchaudhary1 (original Aniyomi ext)"
+      ],
+      "tvTypes": [
+        "Anime",
+        "AnimeMovie",
+        "OVA"
+      ],
+      "language": "en",
+      "status": 1,
+      "iconUrl": "https://www.google.com/s2/favicons?domain=gotaku.to&sz=%size%",
+      "sourceId": "phisher",
+      "sourceName": "Phisher98 Extensions",
+      "adult": false
+    },
+    {
       "name": "HDhub4u",
       "internalName": "HDhub4u",
       "description": "",
@@ -9223,7 +9243,7 @@
       "name": "IdlixProvider",
       "internalName": "IdlixProvider",
       "description": "",
-      "version": 25,
+      "version": 26,
       "authors": [
         "Phisher98"
       ],
@@ -9285,7 +9305,7 @@
       "name": "Jellyfin",
       "internalName": "Jellyfin",
       "description": "Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media",
-      "version": 9,
+      "version": 10,
       "authors": [
         "Phisher98"
       ],
@@ -9306,7 +9326,7 @@
       "name": "Kartoons",
       "internalName": "Kartoons",
       "description": "Kartoons (Cartoon & Animes)",
-      "version": 14,
+      "version": 15,
       "authors": [
         "Phisher98"
       ],
@@ -9750,7 +9770,7 @@
       "name": "ShowBox",
       "internalName": "ShowBox",
       "description": "ShowBox (Retrieve the cookie using Login with Google to properly utilize ShowBox.",
-      "version": 15,
+      "version": 16,
       "authors": [
         "Phisher98"
       ],
@@ -9795,7 +9815,7 @@
       "name": "StreamPlay",
       "internalName": "StreamPlay",
       "description": "#1 best extension based on MultiAPI",
-      "version": 713,
+      "version": 715,
       "authors": [
         "Phisher98",
         "Hexated"
@@ -9819,7 +9839,7 @@
       "name": "StremioAddon",
       "internalName": "StremioAddon",
       "description": "[!] Requires Setup \n- Allows you to use any Stremio addon by pasting their manifest.json url",
-      "version": 17,
+      "version": 18,
       "authors": [
         "Hexated,phisher98,erynith"
       ],
@@ -9839,7 +9859,7 @@
       "name": "StremioX",
       "internalName": "StremioX",
       "description": "[!] Requires Setup \n- StremioX allows you to use stream addons \n- StremioC allows you to use catalog addons",
-      "version": 28,
+      "version": 29,
       "authors": [
         "Hexated,phisher98"
       ],
@@ -9858,7 +9878,7 @@
       "name": "SuperStream",
       "internalName": "SuperStream",
       "description": "SuperStream (Retrieve the cookie using Login with Google to properly utilize SuperStream.",
-      "version": 43,
+      "version": 44,
       "authors": [
         "Phisher98"
       ],
@@ -9997,7 +10017,7 @@
       "name": "TorraStream",
       "internalName": "TorraStream",
       "description": "#1 Best Extension – MultiAPI-Based with 4K Torrent Support (Debian) Use Extension Settings",
-      "version": 98,
+      "version": 99,
       "authors": [
         "Phisher98"
       ],
@@ -10038,7 +10058,7 @@
       "name": "Ultima",
       "internalName": "Ultima",
       "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-      "version": 71,
+      "version": 72,
       "authors": [
         "RowdyRushya,Phisher98"
       ],
@@ -10074,7 +10094,7 @@
       "name": "XDMovies",
       "internalName": "XDMovies",
       "description": "Watch Latest Movies",
-      "version": 30,
+      "version": 31,
       "authors": [
         "Phisher98"
       ],
@@ -10134,7 +10154,7 @@
       "name": "Zinkmovies",
       "internalName": "Zinkmovies",
       "description": "",
-      "version": 14,
+      "version": 15,
       "authors": [
         "Phisher98"
       ],
