@@ -10069,11 +10069,11 @@
   {
     "name": "Gotaku",
     "internalName": "Gotaku",
-    "description": "Gotaku (gotaku.to) - anime with soft sub, hard sub and dub. Ported from the Aniyomi extension.",
+    "description": "Gotaku Anime with Soft sub, Hard sub and Dub",
     "authors": [
-      "manavchaudhary1 (original Aniyomi ext)"
+      "phisher98"
     ],
-    "version": 2,
+    "version": 3,
     "apiVersion": 1,
     "status": 1,
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Gotaku.cs3",
@@ -10084,8 +10084,8 @@
       "OVA"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=gotaku.to&sz=%size%",
-    "fileHash": "sha256-6e800e1598dc012e1710a940541f57aa94d06ec2fab2d548abfea93008d45915",
-    "fileSize": 169558,
+    "fileHash": "sha256-cf07b59d41bd80a45c9db0f1f08f78b99e8a3b54d61fe19fd70b9c05559b4d73",
+    "fileSize": 173087,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
   },
   {
@@ -11077,7 +11077,7 @@
     "authors": [
       "RowdyRushya,Phisher98"
     ],
-    "version": 72,
+    "version": 73,
     "apiVersion": 1,
     "status": 2,
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
@@ -11086,8 +11086,8 @@
       "All"
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
-    "fileHash": "sha256-6dc2ecb716913860e103493cd25bbbd17105f6367e5a118507946462e0d1b9ce",
-    "fileSize": 427096,
+    "fileHash": "sha256-011c713ee48dcfe94349376ef54fdf0da7f26202b00cab4c39078134665188d9",
+    "fileSize": 427933,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher"
   },
   {

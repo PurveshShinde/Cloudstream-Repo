@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T06:18:54.428Z",
+  "updatedAt": "2026-11-20T19:44:53.566Z",
   "name": "CloudStream Repo",
   "totalPlugins": 532,
   "sources": [
@@ -9145,10 +9145,10 @@
     {
       "name": "Gotaku",
       "internalName": "Gotaku",
-      "description": "Gotaku (gotaku.to) - anime with soft sub, hard sub and dub. Ported from the Aniyomi extension.",
-      "version": 2,
+      "description": "Gotaku Anime with Soft sub, Hard sub and Dub",
+      "version": 3,
       "authors": [
-        "manavchaudhary1 (original Aniyomi ext)"
+        "phisher98"
       ],
       "tvTypes": [
         "Anime",
@@ -10058,7 +10058,7 @@
       "name": "Ultima",
       "internalName": "Ultima",
       "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-      "version": 72,
+      "version": 73,
       "authors": [
         "RowdyRushya,Phisher98"
       ],
