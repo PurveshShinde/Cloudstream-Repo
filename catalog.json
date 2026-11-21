@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T19:44:53.566Z",
+  "updatedAt": "2026-11-21T06:08:42.649Z",
   "name": "CloudStream Repo",
   "totalPlugins": 532,
   "sources": [
@@ -7,7 +7,7 @@
       "id": "phisher",
       "name": "Phisher98 Extensions",
       "status": "ok",
-      "count": 88
+      "count": 87
     },
     {
       "id": "megarepo",
@@ -4374,6 +4374,26 @@
       "adult": true
     },
     {
+      "name": "[Indian] MPlayerProvider",
+      "internalName": "MPlayerProvider",
+      "description": "Indian Movies/Series/Kdrama(Hindi Dubbed)",
+      "version": 9,
+      "authors": [
+        "Adam Knight (Maintainer)"
+      ],
+      "tvTypes": [
+        "AsianDrama",
+        "TvSeries",
+        "Movie"
+      ],
+      "language": "hi",
+      "status": 1,
+      "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
+      "sourceId": "megarepo",
+      "sourceName": "Adam Knight MegaRepo",
+      "adult": false
+    },
+    {
       "name": "[Indian] NetflixMirror",
       "internalName": "NetflixMirror",
       "description": "Netflix, PrimeVideo Content in Multiple Languages",
@@ -8679,7 +8699,7 @@
       "name": "AnimePahe",
       "internalName": "AnimePahe",
       "description": "Animes (SUB/DUB)",
-      "version": 59,
+      "version": 62,
       "authors": [
         "Cloudburst,Lorem Ipsum,Phisher98"
       ],
@@ -8897,7 +8917,7 @@
       "name": "Cinefreak",
       "internalName": "Cinefreak",
       "description": "Bangla/Hindi Movies/Series",
-      "version": 25,
+      "version": 26,
       "authors": [
         "Phisher98"
       ],
@@ -9474,26 +9494,6 @@
       "language": "hi",
       "status": 1,
       "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
-      "sourceId": "phisher",
-      "sourceName": "Phisher98 Extensions",
-      "adult": false
-    },
-    {
-      "name": "MPlayerProvider",
-      "internalName": "MPlayerProvider",
-      "description": "Indian Movies/Series/Kdrama(Hindi Dubbed)",
-      "version": 9,
-      "authors": [
-        "Phisher98"
-      ],
-      "tvTypes": [
-        "AsianDrama",
-        "TvSeries",
-        "Movie"
-      ],
-      "language": "hi",
-      "status": 1,
-      "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
       "sourceId": "phisher",
       "sourceName": "Phisher98 Extensions",
       "adult": false
